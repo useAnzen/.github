@@ -1,1 +1,1 @@
-# .github
+# Simple About Us Repo
