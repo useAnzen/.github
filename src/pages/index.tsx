@@ -33,7 +33,7 @@ export default function Homepage({ content }: { content: string }) {
                     xmlns="http://www.w3.org/2000/svg"
                     className={new ClassNames([
                         "text-primary",
-                        "h-[60vh] min-h-[200px]",
+                        "h-[60vh] min-h-[200px] max-h-[600px]",
                     ]).list()}
                 >
                     <path
