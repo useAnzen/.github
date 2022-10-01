@@ -1,5 +1,5 @@
 {
-  "name": ".github",
+  "name": "@useanzen/github",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "marked": "^4.1.0",
     "next": "^12.3.1",
